@@ -15,7 +15,7 @@ body {
   flex-direction: column;
   align-items: center;
 }
-#staffGallery {
+#staffGallery {  
   width: 70vw;
   display: flex;
   flex-wrap: wrap;
